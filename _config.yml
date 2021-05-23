@@ -3,7 +3,7 @@ title:            GDP Blog
 tagline:          'Programming & Study'
 description:      'Personal Blog of Giuliano Di Pasquale; Occasional Blog posts about Programming'
 url:              https://nooby.github.io
-baseurl:          ''
+baseurl:          '/'
 paginate:         5
 
 # About and contact
