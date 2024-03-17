@@ -5,6 +5,9 @@ description:      'Personal Blog of Giuliano Di Pasquale; Occasional Blog posts 
 url:              https://dipasquale.dev
 baseurl:          '/'
 paginate:         5
+markdown: kramdown
+style: kjhealy
+#style: davewhipp
 
 # About and contact
 author:
