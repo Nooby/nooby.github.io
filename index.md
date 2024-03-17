@@ -26,83 +26,82 @@ Tech Lead | Software Developer | Student
 
 - Software Development and Architecture of Web Applications in Go, Python or C#.
 
-
 ## Professional Experience
 
 __Boerse Stuttgart Digital__ (Berlin; Remote)
 
 `10/2022 - Now`
 
-Team Lead
+__Team Lead__
 
-- Design and Development of the Trading Engine (Matching Engine and Customer Bookkeeping)
+- Design and Development of the Trading Engine (Matching Engine and Customer Bookkeeping).
 - Design and Development of Internal (Market Supervision, Price Information) as well as External Interfaces (Rest API, FIX Gateway and  WebSocket Gateway).
 - Staff management and staff selection for the Trading Engine Team.
-- Responsible for the organisation and coordination of the Team
+- Responsible for the organisation and coordination of the Team.
 
 `01/2022 - 10/2022`
 
-Senior Software Developer
+__Senior Software Developer__
 
 - Development of the BSDEX Matching Engine and related Services.
-- Technical Assessment of Job Applicants
+- Technical Assessment of Job Applicants.
 
 __Sennder GmbH__ (Berlin; Remote)
 
 `09/2020 - 11/2021`
 
-Senior Software Developer
+__Senior Software Developer__
 
 - Development of GPS tracking services as part of the Sennder digital freight forwarding platform.
 - Architecture of the GPS microservices and transition from the legacy monolith application.
-- Mentoring of junior developers
-- Integration of third party visibility platforms like Sixfold, CO3, oPhone and Fourkites
+- Mentoring of junior developers.
+- Integration of third party visibility platforms like Sixfold, CO3, oPhone and Fourkites.
 
 __PaxLife Innovations GmbH__ (Potsdam)
 
 `12/2017 - 05/2020`
 
-Head of Software Development
+__Head of Software Development__
 
 - Software Architecture (Cloud & Embedded) for the open Aircraft Platform AirStack.
-- Leading and Mentoring of the development team
-- Backend Development (microservices) to FAA and EASA airworthiness standards (DO-178C/ED-12C)
-- Requirements Engineering, API and Interface design
+- Leading and Mentoring of the development team.
+- Backend Development (microservices) to FAA and EASA airworthiness standards (DO-178C/ED-12C).
+- Requirements Engineering, API and Interface design.
 
 `08/2016 - 12/2017`
 
-Senior Software Developer
+__Senior Software Developer__
 
 - Architecture and Development (Cloud & Embedded) of the PaxLife In-flight entertainment System.
-- Guidance and Mentorship for Junior Developers
+- Guidance and Mentorship for Junior Developers.
 - Development of a Simulator that simulates different aircraft over an ARINC 429 Avionics Databus for Testing Purposes.
-- Development of Proof of Concept and Demo applications
+- Development of Proof of Concept and Demo applications.
 
 __Brand.Meister__ (Düsseldorf)
 
 `07/2015 - 03/2016`
 
-Python Developer
+__Python Developer__
 
-- Development of applications for customers and events of the Brand.Meister Agency and Blu Agency Networks
-- Development of the MYSTAFFPILOT (mystaffpilot.de) platform in cooperation with the anfema GmbH
-- Support for users of the MYSTAFFPILOT platform
+- Development of applications for customers and events of the Brand.Meister Agency and Blu Agency Networks.
+- Development of the MYSTAFFPILOT platform in cooperation with customers.
+- Support for users of the MYSTAFFPILOT platform.
 
 __m.i.r. media__ (Cologne)
 
 `02/2014 - 03/2015`
 
-Python Developer
+__Python Developer__
 
-- Implementation of web and mobile applications
-- Deployment of web applications
+- Implementation of web and mobile applications.
+- Deployment of web applications.
 - Server automation and server administration 
 
 __Lise GmbH__ (Cologne)
 
 `11/2012 - 07/2013`
 
-C# Developer
+__C# Developer__
 
 - Development of a large web shop for a customer.
 - Development of a distributed service architecture as backend of the web application.
@@ -111,13 +110,11 @@ __Starmeo Betriebs GmbH__ (Cologne)
 
 `09/2011 - 08/2012`
 
-Python Developer
+__Python Developer__
 
 - Planning and development of the Starmeo.com Online Social Media Platform.
 - Development of an API interface for the Starmeo Android/iPhone app.
 - Integration of Facebook and twitter in the starmeo.com platform.
-
-
 
 ## Education
 
@@ -126,7 +123,7 @@ Python Developer
 `2019 - Now`
 __BSc Computing and IT__ (Currently Ongoing)
 - Distance learning as a part time student.
-- Focus on Software Engineering, Cyber Security and Management
+- Focus on Software Engineering, Cyber Security and Management.
 - [The Open University](http://open.ac.uk/)
 
 ### Apprenticeship
@@ -155,7 +152,22 @@ __Gymnasium Birkenfeld__
 `1996 - 2000`
 __Grundschule Birkenfeld__
 
+## Technologies
 
+`Language`
 
+Go, Python 2 & 3, C/C++, C#, VB.Net, JavaScript, Clojure
+
+`Database`
+
+PostgreSQL, SQLite, MySQL, MSSQL, MongoDB, Redis
+
+`Message Queue`
+
+RabbitMQ, ZeroMQ, Kafka
+
+`Web Framework`
+
+go-chi, Flask, Django, ASP.Net MVC
 
 
