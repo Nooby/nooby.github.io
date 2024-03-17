@@ -27,8 +27,9 @@ Living in Potsdam; Berlin Area
 
 ### Summary
 
-Tech Lead with extensive experience in Software Development and Architecture. Skilled in leading teams, designing and developing web applications, and implementing innovative solutions.
-Currently pursuing a BSc in Computing and IT with a focus on software engineering, cyber security, and IT management.
+Experienced Tech Lead and Software Developer with a proven track record of leading teams and delivering innovative solutions in the web application domain. 
+Skilled in software development and architecture using languages such as Go, Python, and C#. 
+Currently pursuing a BSc in Computing and IT, with a focus on software engineering, cyber security, and management, demonstrating a commitment to continuous learning and professional growth.
 
 ## Professional Experience
 
