@@ -20,11 +20,12 @@ Tech Lead | Software Developer | Student
 
 - German Citizenship
 - Native German speaker and Fluent in English
-- Living in Potsdam near Berlin, Germany
+- Living in Potsdam; Berlin Area
 
-### Specialized in
+### Summary
 
-- Software Development and Architecture of Web Applications in Go, Python or C#.
+Tech Lead with extensive experience in Software Development and Architecture. Skilled in leading teams, designing and developing web applications, and implementing innovative solutions.
+Currently pursuing a BSc in Computing and IT with a focus on software engineering, cyber security, and IT management.
 
 ## Professional Experience
 
@@ -34,8 +35,8 @@ __Boerse Stuttgart Digital__ (Berlin; Remote)
 
 __Team Lead__
 
-- Design and Development of the Trading Engine (Matching Engine and Customer Bookkeeping).
-- Design and Development of Internal (Market Supervision, Price Information) as well as External Interfaces (Rest API, FIX Gateway and  WebSocket Gateway).
+- Design and Development of the BSDEX Trading Engine, including the Matching Engine and Customer Bookkeeping.
+- Design and Development of Internal (Market Supervision, Price Information) and External Interfaces (Rest API, FIX & WebSocket Gateway).
 - Staff management and staff selection for the Trading Engine Team.
 - Responsible for the organisation and coordination of the Team.
 
@@ -63,10 +64,11 @@ __PaxLife Innovations GmbH__ (Potsdam)
 
 __Head of Software Development__
 
-- Software Architecture (Cloud & Embedded) for the open Aircraft Platform AirStack.
+- Overseeing the Software Architecture (Cloud & Embedded) of the Open Aircraft Software Platform AirStack.
+- Ensuring Compliance with FAA and EASA Standards (DO-178C/ED-12C).
 - Leading and Mentoring of the development team.
-- Backend Development (microservices) to FAA and EASA airworthiness standards (DO-178C/ED-12C).
 - Requirements Engineering, API and Interface design.
+- Hands on Software Development with Go, C and Python.
 
 `08/2016 - 12/2017`
 
@@ -155,19 +157,17 @@ __Grundschule Birkenfeld__
 ## Technologies
 
 `Language`
-
 Go, Python 2 & 3, C/C++, C#, VB.Net, JavaScript, Clojure
 
 `Database`
-
 PostgreSQL, SQLite, MySQL, MSSQL, MongoDB, Redis
 
 `Message Queue`
-
 RabbitMQ, ZeroMQ, Kafka
 
 `Web Framework`
-
 go-chi, Flask, Django, ASP.Net MVC
 
+`DevOps`
+Kubernetes, Docker
 
