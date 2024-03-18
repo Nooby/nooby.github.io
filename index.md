@@ -6,7 +6,7 @@ title: Giuliano Di Pasquale - CV EN
 Tech Lead | Software Developer | Student
 
 <div id="webaddress">
-  <a href="giuliano@dipasquale.dev">giuliano@dipasquale.dev</a>
+  <a href="mailto:giuliano@dipasquale.dev">giuliano@dipasquale.dev</a>
 | <a href="tel:+4915118331258">+49 151 1833 1258</a>
 </div>
 
