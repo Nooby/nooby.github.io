@@ -13,8 +13,6 @@ Tech Lead | Software Developer | Student
 
 ## Currently
 
-Team Lead @ [Boerse Stuttgart Digital](https://www.bsdigital.com/en/); Responsible for the Matching Engine of [BSDEX](https://www.bsdex.de/en/).
-
 Part Time Student @ [The Open University](http://open.ac.uk/); Studying Computing and IT
 
 ### Personal Data
@@ -27,21 +25,21 @@ Living in Potsdam; Berlin Area
 
 ### Summary
 
-Experienced Tech Lead and Software Developer with a proven track record of leading teams and delivering innovative solutions in the web application domain. 
-Skilled in software development and architecture using languages such as Go, Python, and C#. 
+Accomplished and tech-savvy, with a profound track record in the technology sector, specializing in software development,
+system architecture, and team leadership. A solid history of success in diverse industries, including finance, logistics, aviation, and social media, with a keen emphasis on the FinTech and cryptocurrency spaces. Proficient in multiple programming languages, holding a strong command of Go, Python, and .NET/C#, along with experience in C, C++, and JavaScript. Skilled in leading projects from gathering requirements to deploying scalable solutions, ensuring system interoperability while fostering a culture of technical excellence. Committed to advancing cryptocurrency accessibility and security, leveraging deep industry knowledge and a broad set of technical skills to excel in fast-paced and highly regulated environments.
 Currently pursuing a BSc in Computing and IT, with a focus on software engineering, cyber security, and management, demonstrating a commitment to continuous learning and professional growth.
 
 ## Professional Experience
 
 __Boerse Stuttgart Digital__ (Berlin; Remote)
 
-`10/2022 - Now`
+`10/2022 - 05/2024`
 __Team Lead__
 
 - Design and Development of the BSDEX Trading Engine, including the Matching Engine and Customer Bookkeeping.
 - Design and Development of Internal (Market Supervision, Price Information) and External Interfaces (Rest API, FIX & WebSocket Gateway).
 - Staff management and staff selection for the Trading Engine Team.
-- Responsible for the organisation and coordination of the Team.
+- Responsible for the organization and coordination of the Team.
 
 `01/2022 - 10/2022`
 __Senior Software Developer__
