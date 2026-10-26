@@ -1,13 +1,13 @@
 ---
 layout: portfolio
 title: Home
-description: Senior software engineer focused on scalable systems across fintech, logistics, and aviation.
+description: Tech lead building robust and scalable software for fintech, logistics, and aviation.
 ---
 
 <section class="hero" id="home" aria-labelledby="hero-title">
-  <p class="eyebrow">Software engineering · Potsdam, Germany</p>
-  <h1 id="hero-title">Senior software engineer focused on <span>scalable systems</span></h1>
-  <p class="hero__summary">I design and build dependable software across fintech, logistics, and aviation.</p>
+  <p class="eyebrow">Tech lead · Potsdam, Germany</p>
+  <h1 id="hero-title">Building robust software for <span>complex systems</span></h1>
+  <p class="hero__summary">I lead teams and build scalable software for financial technology, logistics, and aviation.</p>
   <div class="actions">
     <a class="button button--primary" href="{{ '/docs/CV_EN.pdf' | relative_url }}">Download my CV</a>
     <a class="button button--secondary" href="#contact">Get in touch</a>
@@ -17,17 +17,19 @@ description: Senior software engineer focused on scalable systems across fintech
 <section class="section" id="about" aria-labelledby="about-title">
   <div class="section__heading">
     <p class="eyebrow">About</p>
-    <h2 id="about-title">Thoughtful engineering for complex systems.</h2>
+    <h2 id="about-title">Engineering robust and scalable solutions.</h2>
   </div>
   <div class="section__body about__body">
     <div>
-      <p>I am a software engineer and technical lead with experience in financial technology, digital logistics, and aviation. My work spans system architecture, hands-on development, and guiding teams from requirements through delivery.</p>
-      <p>I value clear interfaces, dependable software, and practical collaboration. I have led the development of trading systems, cloud and embedded platforms, and services that connect complex systems.</p>
+      <p>I am a tech lead with experience in software development, system architecture, and team leadership. I have worked in finance, logistics, aviation, and social media, with a focus on fintech and crypto solutions.</p>
+      <p>I lead projects from requirements to delivery. My work includes trading systems, post-trade services, microservices, and cloud and embedded platforms. I help teams build scalable software and improve how systems work together.</p>
       <ul class="tag-list" aria-label="Areas of focus">
-        <li>System architecture</li>
+        <li>Trading solutions</li>
+        <li>Distributed systems</li>
+        <li>Microservices and APIs</li>
+        <li>Cloud computing</li>
         <li>Technical leadership</li>
-        <li>Cloud and embedded software</li>
-        <li>APIs and distributed systems</li>
+        <li>Team development</li>
       </ul>
     </div>
     <figure class="about__portrait">
@@ -43,31 +45,45 @@ description: Senior software engineer focused on scalable systems across fintech
   </div>
   <div class="section__body timeline">
     <article class="timeline__item">
-      <p class="timeline__date">2022 — 2024</p>
+      <p class="timeline__date">Aug 2024 — Dec 2024</p>
       <div>
-        <h3>Team Lead · Boerse Stuttgart Digital</h3>
-        <p>Led the trading engine team and helped design and build the BSDEX trading engine, including its matching engine, customer bookkeeping, and REST, FIX, and WebSocket interfaces.</p>
+        <h3>Senior Software Developer · Trade Republic Bank</h3>
+        <p>Built and operated core post-trade services for clearing and securities settlement. Developed allocation and netting logic, plus pipelines to create and send settlement instructions to custodians and central securities depositories.</p>
       </div>
     </article>
     <article class="timeline__item">
-      <p class="timeline__date">2020 — 2021</p>
+      <p class="timeline__date">Oct 2022 — May 2024</p>
+      <div>
+        <h3>Tech Lead / Team Lead · Börse Stuttgart Digital</h3>
+        <p>Led and mentored the Trading Engine team. Shaped the BSDEX trading engine, matching engine, and bookkeeping service. Led work on market supervision, price information, and REST, FIX, and WebSocket interfaces.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <p class="timeline__date">Jan 2022 — Oct 2022</p>
+      <div>
+        <h3>Senior Software Developer · Börse Stuttgart Digital</h3>
+        <p>Built the BSDEX matching engine and related services, market supervision tools, price information services, and REST, FIX, and WebSocket interfaces.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <p class="timeline__date">Sep 2020 — Nov 2021</p>
       <div>
         <h3>Senior Software Developer · Sennder</h3>
-        <p>Designed GPS tracking microservices for a digital freight platform, supported the move from a legacy monolith, and integrated third-party visibility services.</p>
+        <p>Built GPS tracking services for a digital freight platform. Designed microservices in Python and Go, and integrated third-party tracking services.</p>
       </div>
     </article>
     <article class="timeline__item">
-      <p class="timeline__date">2016 — 2020</p>
+      <p class="timeline__date">Aug 2016 — May 2020</p>
       <div>
-        <h3>Software development leadership · PaxLife</h3>
-        <p>Led development and architecture for cloud and embedded aviation platforms. Worked on requirements, APIs, team mentorship, and software developed to DO-178C/ED-12C standards.</p>
+        <h3>Head of Software Development / Senior Software Engineer · PaxLife Innovations</h3>
+        <p>Led the architecture and development of cloud and embedded aviation platforms. Work included satellite communications middleware, a Go-based flight simulator, and backend software built to DO-178C/ED-12C standards.</p>
       </div>
     </article>
     <article class="timeline__item">
-      <p class="timeline__date">2011 — 2016</p>
+      <p class="timeline__date">Aug 2008 — Mar 2016</p>
       <div>
-        <h3>Software developer · Starmeo, Lise, m.i.r. media, Brand.Meister</h3>
-        <p>Built web, mobile, and distributed services in Python and C#, including customer applications, an online shop, and social platform integrations.</p>
+        <h3>Developer · Brand.Meister, M.I.R. Media, Lise, Starmeo, Prosozial, CompuMaster</h3>
+        <p>Built software in Python and C#. Earlier roles included application development apprenticeships.</p>
       </div>
     </article>
   </div>
@@ -80,20 +96,30 @@ description: Senior software engineer focused on scalable systems across fintech
   </div>
   <div class="section__body skills-grid">
     <article class="skill-card">
-      <h3>Languages</h3>
-      <p>Go, Python, C, C++, C#, VB.NET, JavaScript, Clojure</p>
+      <h3>Technical Skills</h3>
+      <p>Python, Go, C#</p>
+      <p>C, C++, VB.NET, JavaScript, Kotlin</p>
     </article>
     <article class="skill-card">
       <h3>Systems</h3>
-      <p>Cloud and embedded systems, microservices, APIs, trading systems, safety-critical software</p>
+      <p>Trading solutions, distributed systems, micro services, APIs, cloud and embedded systems, safety-critical software</p>
     </article>
     <article class="skill-card">
       <h3>Data and messaging</h3>
-      <p>PostgreSQL, SQLite, MySQL, MSSQL, MongoDB, Redis, RabbitMQ, ZeroMQ, Kafka</p>
+      <p>PostgreSQL, SQLite, MySQL, MongoDB, Redis</p>
+      <p>RabbitMQ, ZeroMQ, Kafka</p>
     </article>
     <article class="skill-card">
-      <h3>Tools and frameworks</h3>
-      <p>Kubernetes, Docker, Flask, Django, ASP.NET MVC, go-chi</p>
+      <h3>Web and containers</h3>
+      <p>Flask, Django, ASP.NET MVC, nginx, Docker, rkt, LXC, Kubernetes</p>
+    </article>
+    <article class="skill-card">
+      <h3>Tools and methods</h3>
+      <p>Git, SVN, TFS, Jira, Confluence</p>
+    </article>
+    <article class="skill-card">
+      <h3>Languages</h3>
+      <p>German (native), English (fluent)</p>
     </article>
   </div>
 </section>
@@ -131,6 +157,6 @@ description: Senior software engineer focused on scalable systems across fintech
   <div class="section__body">
     <p>I welcome conversations about software engineering, technical leadership, and consulting work.</p>
     <a class="contact__email" href="mailto:giuliano@dipasquale.dev">giuliano@dipasquale.dev</a>
-    <p class="contact__links"><a href="https://github.com/Nooby">GitHub</a><span aria-hidden="true">·</span><a href="{{ '/docs/CV_EN.pdf' | relative_url }}">Download CV</a></p>
+    <p class="contact__links"><a href="https://github.com/Nooby">GitHub</a><span aria-hidden="true">·</span><a href="https://linkedin.com/in/giulianodipasquale">LinkedIn</a><span aria-hidden="true">·</span><a href="{{ '/docs/CV_EN.pdf' | relative_url }}">Download CV</a></p>
   </div>
 </section>

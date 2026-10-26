@@ -14,6 +14,25 @@ class PortfolioTest < Minitest::Test
     end
   end
 
+  def test_education_section_is_present
+    assert_includes @page, "BSc Computing and IT (in Progress)"
+    assert_includes @page, "The Open University"
+  end
+
+  def test_experience_matches_the_latest_cv
+    assert_includes @page, "Senior Software Developer · Trade Republic Bank"
+    assert_includes @page, "Aug 2024 — Dec 2024"
+    assert_includes @page, "settlement instructions"
+    assert_includes @page, "Börse Stuttgart Digital"
+  end
+
+  def test_skills_and_languages_match_the_latest_cv
+    assert_includes @page, "Kotlin"
+    assert_includes @page, "Python, Go, C#"
+    assert_includes @page, "German (native), English (fluent)"
+    refute_includes @page, "Clojure"
+  end
+
   def test_navigation_links_have_matching_sections
     template = @layout + @page
     local_links = template.scan(/href="#([^"]+)"/).flatten
