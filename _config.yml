@@ -1,7 +1,7 @@
 # Setup
 title:            Giuliano Di Pasquale
-tagline:          'Software engineer | Systems architecture & technical leadership'
-description:      'Senior software engineer focused on scalable systems across fintech, logistics, and aviation.'
+tagline:          'Tech lead | Robust and scalable software solutions'
+description:      'Tech lead building robust and scalable software for fintech, logistics, and aviation.'
 url:              https://dipasquale.dev
 baseurl:          '/'
 markdown: kramdown
