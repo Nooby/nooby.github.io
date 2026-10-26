@@ -1,13 +1,11 @@
 # Setup
-title:            GDP Blog
-tagline:          'Programming & Study'
-description:      'Personal Blog of Giuliano Di Pasquale; Occasional Blog posts about Programming'
+title:            Giuliano Di Pasquale
+tagline:          'Software engineer | Systems architecture & technical leadership'
+description:      'Senior software engineer focused on scalable systems across fintech, logistics, and aviation.'
 url:              https://dipasquale.dev
 baseurl:          '/'
-paginate:         5
 markdown: kramdown
 style: kjhealy
-#style: davewhipp
 
 # About and contact
 author:
@@ -18,4 +16,3 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
-
