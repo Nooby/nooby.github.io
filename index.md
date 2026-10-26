@@ -19,15 +19,20 @@ description: Senior software engineer focused on scalable systems across fintech
     <p class="eyebrow">About</p>
     <h2 id="about-title">Thoughtful engineering for complex systems.</h2>
   </div>
-  <div class="section__body">
-    <p>I am a software engineer and technical lead with experience in financial technology, digital logistics, and aviation. My work spans system architecture, hands-on development, and guiding teams from requirements through delivery.</p>
-    <p>I value clear interfaces, dependable software, and practical collaboration. I have led the development of trading systems, cloud and embedded platforms, and services that connect complex systems.</p>
-    <ul class="tag-list" aria-label="Areas of focus">
-      <li>System architecture</li>
-      <li>Technical leadership</li>
-      <li>Cloud and embedded software</li>
-      <li>APIs and distributed systems</li>
-    </ul>
+  <div class="section__body about__body">
+    <div>
+      <p>I am a software engineer and technical lead with experience in financial technology, digital logistics, and aviation. My work spans system architecture, hands-on development, and guiding teams from requirements through delivery.</p>
+      <p>I value clear interfaces, dependable software, and practical collaboration. I have led the development of trading systems, cloud and embedded platforms, and services that connect complex systems.</p>
+      <ul class="tag-list" aria-label="Areas of focus">
+        <li>System architecture</li>
+        <li>Technical leadership</li>
+        <li>Cloud and embedded software</li>
+        <li>APIs and distributed systems</li>
+      </ul>
+    </div>
+    <figure class="about__portrait">
+      <img src="{{ '/media/Photo_Portrait.jpg' | relative_url }}" alt="Portrait of Giuliano Di Pasquale" width="2845" height="3658">
+    </figure>
   </div>
 </section>
 
@@ -100,12 +105,20 @@ description: Senior software engineer focused on scalable systems across fintech
   </div>
   <div class="section__body education-list">
     <article>
-      <h3>BSc Computing and IT</h3>
+      <h3>BSc Computing and IT (in Progress)</h3>
       <p>The Open University · Software engineering, cyber security, and management</p>
     </article>
     <article>
+      <h3>Dip HE Computing and IT</h3>
+      <p>The Open University · Software engineering, cyber security, and management</p>
+    </article>
+    <article>
+      <h3>Cert HE Computing and IT</h3>
+      <p>The Open University · Software engineering and development</p>
+    </article>
+    <article>
       <h3>IT Specialist for Application Development</h3>
-      <p>Vocational training in application development</p>
+      <p>Apprenticeship in application development</p>
     </article>
   </div>
 </section>

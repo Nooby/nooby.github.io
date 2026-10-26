@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 require 'json'
+require 'csv'
 require 'open-uri'
 
 gem 'github-pages'

@@ -224,6 +224,25 @@ main,
   margin-block: 0 1.1rem;
 }
 
+.about__body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(12rem, 0.7fr);
+  align-items: start;
+  gap: 2rem;
+}
+
+.about__portrait {
+  max-width: 19rem;
+  margin: 0;
+}
+
+.about__portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
 .tag-list {
   display: flex;
   flex-wrap: wrap;
@@ -354,6 +373,14 @@ main,
   .section {
     grid-template-columns: 1fr;
     gap: 1.5rem;
+  }
+
+  .about__body {
+    grid-template-columns: 1fr;
+  }
+
+  .about__portrait {
+    max-width: 16rem;
   }
 
   .timeline__item {

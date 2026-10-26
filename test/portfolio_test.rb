@@ -29,6 +29,12 @@ class PortfolioTest < Minitest::Test
     assert File.file?(File.expand_path("../docs/CV_EN.pdf", __dir__))
   end
 
+  def test_about_section_shows_the_portrait
+    assert_match(%r{<img src="\{\{ '/media/Photo_Portrait\.jpg' \| relative_url \}\}" alt="Portrait of Giuliano Di Pasquale"}, @page)
+    assert File.file?(File.expand_path("../media/Photo_Portrait.jpg", __dir__))
+    assert_includes @styles, ".about__portrait img"
+  end
+
   def test_styles_support_small_screens_and_reduced_motion
     assert_includes @styles, "@media (max-width: 700px)"
     assert_includes @styles, "@media (prefers-reduced-motion: reduce)"
