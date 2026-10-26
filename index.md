@@ -1,166 +1,123 @@
 ---
-layout: cv
-title: Giuliano Di Pasquale - CV EN
+layout: portfolio
+title: Home
+description: Senior software engineer focused on scalable systems across fintech, logistics, and aviation.
 ---
-# Giuliano Di Pasquale
-Tech Lead | Software Developer | Student
 
-<div id="webaddress">
-  <a href="mailto:giuliano@dipasquale.dev">giuliano@dipasquale.dev</a>
-| <a href="tel:+4915118331258">+49 151 1833 1258</a>
-</div>
+<section class="hero" id="home" aria-labelledby="hero-title">
+  <p class="eyebrow">Software engineering · Potsdam, Germany</p>
+  <h1 id="hero-title">Senior software engineer focused on <span>scalable systems</span></h1>
+  <p class="hero__summary">I design and build dependable software across fintech, logistics, and aviation.</p>
+  <div class="actions">
+    <a class="button button--primary" href="{{ '/docs/CV_EN.pdf' | relative_url }}">Download my CV</a>
+    <a class="button button--secondary" href="#contact">Get in touch</a>
+  </div>
+</section>
 
+<section class="section" id="about" aria-labelledby="about-title">
+  <div class="section__heading">
+    <p class="eyebrow">About</p>
+    <h2 id="about-title">Thoughtful engineering for complex systems.</h2>
+  </div>
+  <div class="section__body">
+    <p>I am a software engineer and technical lead with experience in financial technology, digital logistics, and aviation. My work spans system architecture, hands-on development, and guiding teams from requirements through delivery.</p>
+    <p>I value clear interfaces, dependable software, and practical collaboration. I have led the development of trading systems, cloud and embedded platforms, and services that connect complex systems.</p>
+    <ul class="tag-list" aria-label="Areas of focus">
+      <li>System architecture</li>
+      <li>Technical leadership</li>
+      <li>Cloud and embedded software</li>
+      <li>APIs and distributed systems</li>
+    </ul>
+  </div>
+</section>
 
-## Currently
+<section class="section section--tinted" id="experience" aria-labelledby="experience-title">
+  <div class="section__heading">
+    <p class="eyebrow">Selected experience</p>
+    <h2 id="experience-title">Building software that matters.</h2>
+  </div>
+  <div class="section__body timeline">
+    <article class="timeline__item">
+      <p class="timeline__date">2022 — 2024</p>
+      <div>
+        <h3>Team Lead · Boerse Stuttgart Digital</h3>
+        <p>Led the trading engine team and helped design and build the BSDEX trading engine, including its matching engine, customer bookkeeping, and REST, FIX, and WebSocket interfaces.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <p class="timeline__date">2020 — 2021</p>
+      <div>
+        <h3>Senior Software Developer · Sennder</h3>
+        <p>Designed GPS tracking microservices for a digital freight platform, supported the move from a legacy monolith, and integrated third-party visibility services.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <p class="timeline__date">2016 — 2020</p>
+      <div>
+        <h3>Software development leadership · PaxLife</h3>
+        <p>Led development and architecture for cloud and embedded aviation platforms. Worked on requirements, APIs, team mentorship, and software developed to DO-178C/ED-12C standards.</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <p class="timeline__date">2011 — 2016</p>
+      <div>
+        <h3>Software developer · Starmeo, Lise, m.i.r. media, Brand.Meister</h3>
+        <p>Built web, mobile, and distributed services in Python and C#, including customer applications, an online shop, and social platform integrations.</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-Part Time Student @ [The Open University](http://open.ac.uk/); Studying Computing and IT
+<section class="section" id="skills" aria-labelledby="skills-title">
+  <div class="section__heading">
+    <p class="eyebrow">Skills</p>
+    <h2 id="skills-title">A broad engineering toolkit.</h2>
+  </div>
+  <div class="section__body skills-grid">
+    <article class="skill-card">
+      <h3>Languages</h3>
+      <p>Go, Python, C, C++, C#, VB.NET, JavaScript, Clojure</p>
+    </article>
+    <article class="skill-card">
+      <h3>Systems</h3>
+      <p>Cloud and embedded systems, microservices, APIs, trading systems, safety-critical software</p>
+    </article>
+    <article class="skill-card">
+      <h3>Data and messaging</h3>
+      <p>PostgreSQL, SQLite, MySQL, MSSQL, MongoDB, Redis, RabbitMQ, ZeroMQ, Kafka</p>
+    </article>
+    <article class="skill-card">
+      <h3>Tools and frameworks</h3>
+      <p>Kubernetes, Docker, Flask, Django, ASP.NET MVC, go-chi</p>
+    </article>
+  </div>
+</section>
 
-### Personal Data
+<section class="section section--tinted" id="education" aria-labelledby="education-title">
+  <div class="section__heading">
+    <p class="eyebrow">Education</p>
+    <h2 id="education-title">Learning through practice and study.</h2>
+  </div>
+  <div class="section__body education-list">
+    <article>
+      <h3>BSc Computing and IT</h3>
+      <p>The Open University · Software engineering, cyber security, and management</p>
+    </article>
+    <article>
+      <h3>IT Specialist for Application Development</h3>
+      <p>Vocational training in application development</p>
+    </article>
+  </div>
+</section>
 
-German Citizenship
-
-Native German speaker and Fluent in English
-
-Living in Potsdam; Berlin Area
-
-### Summary
-
-Accomplished and tech-savvy, with a profound track record in the technology sector, specializing in software development,
-system architecture, and team leadership. A solid history of success in diverse industries, including finance, logistics, aviation, and social media, with a keen emphasis on the FinTech and cryptocurrency spaces. Proficient in multiple programming languages, holding a strong command of Go, Python, and .NET/C#, along with experience in C, C++, and JavaScript. Skilled in leading projects from gathering requirements to deploying scalable solutions, ensuring system interoperability while fostering a culture of technical excellence. Committed to advancing cryptocurrency accessibility and security, leveraging deep industry knowledge and a broad set of technical skills to excel in fast-paced and highly regulated environments.
-Currently pursuing a BSc in Computing and IT, with a focus on software engineering, cyber security, and management, demonstrating a commitment to continuous learning and professional growth.
-
-## Professional Experience
-
-__Boerse Stuttgart Digital__ (Berlin; Remote)
-
-`10/2022 - 05/2024`
-__Team Lead__
-
-- Design and Development of the BSDEX Trading Engine, including the Matching Engine and Customer Bookkeeping.
-- Design and Development of Internal (Market Supervision, Price Information) and External Interfaces (Rest API, FIX & WebSocket Gateway).
-- Staff management and staff selection for the Trading Engine Team.
-- Responsible for the organization and coordination of the Team.
-
-`01/2022 - 10/2022`
-__Senior Software Developer__
-
-- Development of the BSDEX Matching Engine and related Services.
-- Technical Assessment of Job Applicants.
-
-__Sennder GmbH__ (Berlin; Remote)
-
-`09/2020 - 11/2021`
-__Senior Software Developer__
-
-- Development of GPS tracking services as part of the Sennder digital freight forwarding platform.
-- Architecture of the GPS microservices and transition from the legacy monolith application.
-- Mentoring of junior developers.
-- Integration of third party visibility platforms like Sixfold, CO3, oPhone and Fourkites.
-
-__PaxLife Innovations GmbH__ (Potsdam)
-
-`12/2017 - 05/2020`
-__Head of Software Development__
-
-- Overseeing the Software Architecture (Cloud & Embedded) of the Open Aircraft Software Platform AirStack.
-- Ensuring Compliance with FAA and EASA Standards (DO-178C/ED-12C).
-- Leading and Mentoring of the development team.
-- Requirements Engineering, API and Interface design.
-- Hands on Software Development with Go, C and Python.
-
-`08/2016 - 12/2017`
-__Senior Software Developer__
-
-- Architecture and Development (Cloud & Embedded) of the PaxLife In-flight entertainment System.
-- Guidance and Mentorship for Junior Developers.
-- Development of a Simulator that simulates different aircraft over an ARINC 429 Avionics Databus for Testing Purposes.
-- Development of Proof of Concept and Demo applications.
-
-__Brand.Meister__ (Düsseldorf)
-
-`07/2015 - 03/2016`
-__Python Developer__
-
-- Development of applications for customers and events of the Brand.Meister Agency and Blu Agency Networks.
-- Development of the MYSTAFFPILOT platform in cooperation with customers.
-- Support for users of the MYSTAFFPILOT platform.
-
-__m.i.r. media__ (Cologne)
-
-`02/2014 - 03/2015`
-__Python Developer__
-
-- Implementation of web and mobile applications.
-- Deployment of web applications.
-- Server automation and server administration 
-
-__Lise GmbH__ (Cologne)
-
-`11/2012 - 07/2013`
-__C# Developer__
-
-- Development of a large web shop for a customer.
-- Development of a distributed service architecture as backend of the web application.
-
-__Starmeo Betriebs GmbH__ (Cologne)
-
-`09/2011 - 08/2012`
-__Python Developer__
-
-- Planning and development of the Starmeo.com Online Social Media Platform.
-- Development of an API interface for the Starmeo Android/iPhone app.
-- Integration of Facebook and twitter in the starmeo.com platform.
-
-## Education
-
-### University
-
-`2019 - Now`
-__BSc Computing and IT__ (Currently Ongoing)
-- Distance learning as a part time student.
-- Focus on Software Engineering, Cyber Security and Management.
-- [The Open University](http://open.ac.uk/)
-
-### Apprenticeship
-
-- __Fachinformatiker Fachrichtung Anwendungsentwicklung__
-- (IT Specialist for Application Development)
-
-`2009 - 2011`
-__prosozial GmbH__ (Koblenz)
-
-`2008 - 2009`
-__CompuMaster GmbH__ (Emmelshausen)
-
-### School
-
-`2006 - 2008`
-__BBS Montabaur__
-- Focus on Economics and Management
-
-`2003 - 2006`
-__Regionalschule__
-
-`2000 - 2003`
-__Gymnasium Birkenfeld__
-
-`1996 - 2000`
-__Grundschule Birkenfeld__
-
-## Technologies
-
-`Language`
-Go, Python 2 & 3, C/C++, C#, VB.Net, JavaScript, Clojure
-
-`Database`
-PostgreSQL, SQLite, MySQL, MSSQL, MongoDB, Redis
-
-`Message Queue`
-RabbitMQ, ZeroMQ, Kafka
-
-`Web Framework`
-go-chi, Flask, Django, ASP.Net MVC
-
-`DevOps`
-Kubernetes, Docker
-
+<section class="section contact" id="contact" aria-labelledby="contact-title">
+  <div class="section__heading">
+    <p class="eyebrow">Contact</p>
+    <h2 id="contact-title">Have a project or role in mind?</h2>
+  </div>
+  <div class="section__body">
+    <p>I welcome conversations about software engineering, technical leadership, and consulting work.</p>
+    <a class="contact__email" href="mailto:giuliano@dipasquale.dev">giuliano@dipasquale.dev</a>
+    <p class="contact__links"><a href="https://github.com/Nooby">GitHub</a><span aria-hidden="true">·</span><a href="{{ '/docs/CV_EN.pdf' | relative_url }}">Download CV</a></p>
+  </div>
+</section>
